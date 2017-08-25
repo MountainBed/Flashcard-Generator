@@ -1,10 +1,24 @@
-===Basic Flashcard===
+
+===Cloze-Deletion Flashcard===
 +
-+  Front: What is my name?
++  Full: My name is Ross Blair, and I am a beast.
 +
-+  Back: Ross
++  Cloze: ross
++
++  Partial: My name is ... Blair, and I am a beast.
 +
 ===End of Flashcard===
+
+===Cloze-Deletion Flashcard===
++
++  Full: My name is Ross Blair, and I am a beast.
++
++  Cloze: ross
++
++  Partial: My name is ... Blair, and I am a beast.
++
+===End of Flashcard===
+
 ===Basic Flashcard===
 +
 +  Front: What is my name?

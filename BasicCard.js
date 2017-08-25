@@ -8,7 +8,7 @@ var BasicCard = function (front, back) {
     console.log(this.cardText);
   };
   this.writeCard = function () {
-    fs.appendFile("log.txt", this.cardText, function (err) {
+    fs.appendFile("log.txt", "\n" + this.cardText, function (err) {
       if (err) console.log("There was an error: " + err);
     });
   };
