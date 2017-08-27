@@ -20,3 +20,6 @@ This provides the backend for a basic flashcard application. The backend allows 
 
 4. No command  
   If no command is given, an example of each type of flashcard is given, along with their corresponding general command type.
+
+### Copyright
+  &copy; 2017 Ross Blair
